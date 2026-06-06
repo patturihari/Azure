@@ -43,5 +43,14 @@
     "updated_date": "2026-01-05T16:45:00Z",
     "amount": 1200.00,
     "source_system": "orders_app"
-  }
+  },
+  {
+    "order_id": 6,
+    "customer_id": "1006",
+    "customer_name": "NextGen Solutions",
+    "order_date": "2026-01-06T08:20:00Z",
+    "updated_date": "2026-01-06T08:20:00Z",
+    "amount": 340.25,
+    "source_system": "orders_app"
+    }
 ]
